@@ -1,0 +1,1 @@
+web: lein with-profile production trampoline run -m searchly-clojure-sample.web $PORT
